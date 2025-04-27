@@ -54,10 +54,31 @@ Após a execução, são gerados quatro arquivos no diretório `/content/output`
 
 ---
 
+## 📸 Demonstração Visual
+
+Perfeito, você tem toda razão.
+
+Como a imagem `demonstracao.png` **já é composta** (comparação lado a lado já feita), **não** faz sentido usar tabela com duas colunas.  
+**Basta chamá-la diretamente** no `README.md` como uma demonstração simples.
+
+Aqui está o jeito certo para a sua seção:
+
+---
+
+## 📸 Demonstração Visual
+
+A imagem abaixo ilustra a comparação entre a resolução original da cena Sentinel-2 (à esquerda) e o resultado obtido após a aplicação do modelo **S2DR3** (à direita), com resolução aprimorada para **1 metro por pixel**.
+
+![Demonstração da Super-Resolução](./demonstracao.png)
+
+> 🔎 À esquerda: Sentinel-2 original | À direita: Resultado S2DR3
+
+---
+
 ## 📖 Créditos:
 
 - Modelo: **Gamma Earth** ([Artigo original](https://medium.com/@ya_71389/sentinel-2-deep-resolution-3-0-c71a601a2253))
-- Implementação adicional: **[Samuel Santos]**
+- Implementação adicional: ([Samuel Santos](https://github.com/samuel-c-santos))
 
 Este projeto é apenas uma adaptação demonstrativa para fins educacionais e de experimentação, sem uso comercial.
 
@@ -67,8 +88,3 @@ Este projeto é apenas uma adaptação demonstrativa para fins educacionais e de
 
 Para informações sobre licenciamento ou uso comercial do S2DR3, entre em contato com a Gamma Earth:  
 📧 **info@gamma.earth**
-
----
-
-### 📌 Nota final:
-Se este projeto te ajudou, considere deixar uma estrela ⭐ no repositório!
