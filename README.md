@@ -56,17 +56,6 @@ Após a execução, são gerados quatro arquivos no diretório `/content/output`
 
 ## 📸 Demonstração Visual
 
-Perfeito, você tem toda razão.
-
-Como a imagem `demonstracao.png` **já é composta** (comparação lado a lado já feita), **não** faz sentido usar tabela com duas colunas.  
-**Basta chamá-la diretamente** no `README.md` como uma demonstração simples.
-
-Aqui está o jeito certo para a sua seção:
-
----
-
-## 📸 Demonstração Visual
-
 A imagem abaixo ilustra a comparação entre a resolução original da cena Sentinel-2 (à esquerda) e o resultado obtido após a aplicação do modelo **S2DR3** (à direita), com resolução aprimorada para **1 metro por pixel**.
 
 ![Demonstração da Super-Resolução](./demonstracao.png)
